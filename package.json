@@ -1,0 +1,14 @@
+{
+  "name": "json-blob",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "cross-blob": "^1.2.3",
+    "request": "^2.88.2"
+  }
+}
