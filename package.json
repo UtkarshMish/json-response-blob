@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "axios": "^0.19.2",
-    "cross-blob": "^1.2.3",
+    "cross-blob": "^1.2.4",
     "request": "^2.88.2"
   }
 }
