@@ -7,7 +7,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "cross-blob": "^1.2.4",
     "request": "^2.88.2"
   }
